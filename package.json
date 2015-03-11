@@ -1,0 +1,14 @@
+{
+  "name": "cq5bundlestatus",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "redhatgrsenthil <redhatgrsenthil@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.53.0"
+  }
+}
