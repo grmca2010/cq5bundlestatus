@@ -1,14 +1,20 @@
 {
   "name": "cq5bundlestatus",
   "version": "1.0.1",
-  "description": "",
   "main": "lib/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "redhatgrsenthil <redhatgrsenthil@gmail.com>",
+  "author": {
+    "name": "redhatgrsenthil",
+    "email": "redhatgrsenthil@gmail.com"
+  },
   "license": "ISC",
   "dependencies": {
     "request": "^2.53.0"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "cq5bundlestatus@1.0.1",
+  "_shasum": "dcdbc3483fcc8b138c3d028534145ecd4b0ca780",
+  "_from": "cq5bundlestatus@"
 }
